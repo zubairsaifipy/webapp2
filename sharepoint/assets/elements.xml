@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <CustomAction Title="PvaSso" Location="ClientSideExtension.ApplicationCustomizer" ClientSideComponentId="bbcf8287-ea2d-4bb6-868f-19b9cf4b0812" ClientSideComponentProperties="{&quot;botURL&quot;:&quot;https://default5aae7eb31a0c4ac282c9493808e8e0.6c.environment.api.powerplatform.com/powervirtualagents/botsbyschema/Default_copilot/directline/token?api-version=2022-03-01-preview&quot;,&quot;customScope&quot;:&quot;api://0e7af614-e811-4efd-901e-c96c8ebcae86/SPO.Read&quot;,&quot;clientID&quot;:&quot;cfeda771-a576-4f1f-9b52-368ee25772fb&quot;,&quot;authority&quot;:&quot;https://login.microsoftonline.com/alankaeon01.onmicrosoft.com&quot;,&quot;greet&quot;:false,&quot;buttonLabel&quot;:&quot;ChatBot&quot;,&quot;botName&quot;:&quot;SharePointWeb&quot;}">
+    </CustomAction>
+</Elements>
